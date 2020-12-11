@@ -1,84 +1,81 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Obafemi Oderanti",
+    "occupation": "Fullstack ReactJS Developer",
+    "description": "I have about 3 years experience with javascript & Python. And I am versatile in the coordination of the entire SDLC of software applications with proven results",
+    "image": "oba.jpeg",
+    "bio": "My name is Obafemi, Fullstack ReactJS Developer. Currently I'm working on a number of fullstack applications ",
+    "contactmessage": "You need my elite services ? Let's talk please!",
+    "email": "thevetdoctor@gmail.com",
+    "phone": "+234 8069100463",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "city": "Lagos",
+      "country": "Nigeria"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://bookatrip.herokuapp.com/api/v1",
+    "resumedownload": "https://www.linkedin.com/in/obafemi-oderanti",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://web.facebook.com/huntiololo",
         "className": "fa fa-facebook"
       },
       {
+        "name": "twitter",
+        "url": "https://www.twitter.com/animalworldng",
+        "className": "fa fa-twitter"
+      },
+      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/obafemi-oderanti/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/animalworldng/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/thevetdoctor",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I can assure you of a versatile, confident and goal oriented software engineer. A great agile team player.",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Andela Learning Community",
+        "degree": "Mobile Web Specialist",
+        "graduated": "August 2018",
+        "description": "Google Trained & Certified MWS"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Facebook Andela Developers Circle",
+        "title": "Fullstack Software Engineer",
+        "years": "March 2020 - Present",
+        "description": "Developed with my team, a fullstack application that qualified into the top best 40 applications in the Facebook Sponsored Sustainable Development Goals Hackathon out of over 300 submissions."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "ReactJS",
+        "level": "90%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "75%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "70%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Python Flask",
+        "level": "75%"
       },
       {
         "name": "HTML5",
@@ -87,52 +84,52 @@
       {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Farm Record System",
+        "category": "Robust Application built with JS front-end(MongoDB, ExpressJS, ReactJS, NodeJS) & Python Flask backend",
+        "image": "bafotfarms.png",
+        "url": "https://bafot.herokuapp.com/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Trip Booking App API",
+        "category": "Backend API for a trip booking application built with NodeJS",
+        "image": "bookatrip.png",
+        "url": "https://bookatrip.herokuapp.com/api/v1"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Teamwork App API",
+        "category": "Backend API for a social team networking application built with NodeJS",
+        "image": "teamwork.png",
+        "url": "https://obateamwork.herokuapp.com/api/v1"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Recipe Collection App",
+        "category": "Fullstack Application for collection and sharing sumptuous recipes built with Vanilla Jvascript, HTML, CSS for the frontend and NodeJS/ExpressJS for the backend",
+        "image": "recipebook.png",
+        "url": "https://recipebook.herokuapp.com"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Currency Exchange App",
+        "category": "Fullstack Application for collection and sharing sumptuous recipes built with Vanilla Jvascript, HTML, CSS for the frontend and NodeJS/ExpressJS for the backend",
+        "image": "forexchange.png",
+        "url": "https://forexchange.herokuapp.com"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "You can handover any project to Oba, and you can go to sleep. He delivers!!!",
+        "user": "Ibe Arua - Fullstack Dev, Facebook Developers Ciricles"
       }
     ]
   }
